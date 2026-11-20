@@ -1,176 +1,170 @@
-# IVF-vs-IUI-Treatment-Differences-Fertility-Conditions# IVF Cost in Ahmedabad (2026) — Ayuh Fertility Centre (Summary)
+# IVF-vs-IUI-Treatment-Differences-Fertility-Conditions
 
-> **Source:** [ayuhfertilitycentre.com/ivf-cost-in-ahmedabad](https://ayuhfertilitycentre.com/ivf-cost-in-ahmedabad/)
+# IVF vs IUI: Key Differences & Which Fertility Conditions Suit Each — Ayuh Fertility Centre (Summary)
+
+> **Source:** [ayuhfertilitycentre.com/ivf-vs-iui-fertility-conditions](https://ayuhfertilitycentre.com/ivf-vs-iui-fertility-conditions/)
 > **Clinic:** Ayuh Fertility Centre, Ahmedabad, India
-> **Author:** Dr. Krupa Shah, MD (Obstetrics & Gynaecology), trained in reproductive medicine in Germany, 19+ years' experience
-> **Last updated:** January 2026 (page text) / 19 May 2026 (page metadata)
-> *This is a structured summary of the page, not a verbatim copy. Prices are as listed on the page; confirm with the clinic before deciding.*
+> **Last updated:** 20 November 2026 · **Author:** admin
+> *This is a structured summary of the blog, not a verbatim copy.*
 
 ---
 
-## 1. Pricing at a Glance
+## Quick Answer
 
-- **Ayuh IVF cost:** ₹1,20,000 – ₹1,40,000 per cycle
-- **Typical range at Ahmedabad clinics** (as stated by the page): ₹1,20,000 – ₹1,80,000
-- Prices are **per cycle**. **Fertility medicines are charged separately.**
+The main difference is **where fertilisation happens**:
+- **IUI:** inside the body
+- **IVF:** in a laboratory
+
+The right choice depends on age, egg reserve, tube health, sperm quality and past treatments.
 
 ---
 
-## 2. Main Treatment Packages
+## 1. What Is IUI (Intrauterine Insemination)?
 
-| Treatment | Price (per cycle) | What's included |
+Washed, concentrated sperm are placed directly into the uterus around the time of ovulation. Fertilisation then happens naturally in the fallopian tube. **No eggs are retrieved.**
+
+### How IUI Works
+
+1. **Fertility evaluation:** checks ovulation, uterus, tubes and semen
+2. **Ovulation monitoring:** ultrasound scans, with medicines if needed
+3. **Sperm preparation:** sperm are washed and concentrated in the lab
+4. **Insemination:** sperm are placed in the uterus through a thin catheter
+5. **Pregnancy test:** about two weeks later
+
+---
+
+## 2. What Is IVF (In Vitro Fertilisation)?
+
+Eggs are collected from the ovaries and fertilised with sperm in the lab. A healthy embryo is then transferred into the uterus.
+
+### How IVF Works
+
+1. **Ovarian stimulation:** hormone medicines help develop multiple eggs
+2. **Follicle monitoring:** ultrasound scans and hormone tests
+3. **Egg retrieval:** a minor procedure under sedation
+4. **Fertilisation:** conventional IVF or ICSI
+5. **Embryo development:** embryos are monitored in the lab
+6. **Embryo transfer:** a suitable embryo is placed in the uterus
+7. **Pregnancy test:** a blood test at the recommended time
+
+---
+
+## 3. IVF vs IUI: Key Differences
+
+| Factor | IUI | IVF |
 |---|---|---|
-| **IUI** | ₹6,000 | Pre-IUI tests & semen analysis, follicle scans, sperm washing, insemination, follow-up visit |
-| **Standard IVF** | ₹1,20,000 – ₹1,40,000 | Stimulation protocol, egg retrieval (OPU), lab fertilisation, embryo culture, embryo transfer, luteal support |
-| **ICSI** | ₹1,00,000 – ₹1,70,000* | Everything in IVF + single-sperm injection + embryologist consultation |
-| **Mini IVF** | ₹80,000 – ₹1,10,000 | Lower-stimulation IVF (listed in FAQs) |
-
-\*The FAQ section says ICSI starts at ₹1,40,000, which doesn't match the ₹1,00,000 on the package card.
+| Where fertilisation happens | Inside the body | In the laboratory |
+| Egg retrieval | Not needed | Needed |
+| Medicines | May or may not be needed | Usually needed for stimulation |
+| Procedure | Relatively simple | More involved |
+| Fallopian tubes | At least one working tube generally needed | Not needed for fertilisation |
+| Embryo development | Inside the body | Monitored in the lab |
+| Planning is based on | Ovulation, tubes, sperm | Ovarian response, egg & sperm factors, embryo growth |
 
 ---
 
-## 3. Additional Treatments & Add-ons
+## 4. When Is IUI Considered?
 
-| Service | Cost |
+- **Mild male-factor infertility:** enough moving sperm after washing
+- **Unexplained infertility:** when ovulation is normal, at least one tube is open and semen is suitable
+- **Ovulation problems:** sometimes combined with ovulation-inducing medicines (PCOS is assessed case by case)
+- **Cervical or intercourse-related difficulties:** in selected cases
+
+---
+
+## 5. When Is IVF Considered?
+
+- **Both fallopian tubes blocked or damaged**
+- **Severe male-factor infertility:** usually IVF with ICSI
+- **Advanced maternal age** (late 30s and above), depending on ovarian reserve and other findings
+- **Endometriosis:** depending on severity, age and ovarian reserve
+- **Failed IUI cycles:** after the specialist reassesses
+
+---
+
+## 6. How Doctors Choose Between IVF and IUI
+
+| Factor | Why it matters |
 |---|---|
-| Frozen Embryo Transfer (FET) | ₹25,000 – ₹50,000 |
-| Donor Egg IVF | ₹1,60,000 – ₹1,80,000 |
-| PGT-A / PGT-M (genetic testing) | ₹50,000 – ₹1,20,000 |
-| Ovulation Induction | ₹3,000 – ₹8,000 |
-| Sperm Freezing | ₹3,500 |
-| TESA / PESA (sperm retrieval) | ₹15,000 |
-| Embryo Freezing & Storage | ₹10,000 per year |
-| Fertility medicines (injections, progesterone, trigger shot) | Not listed; estimated at consultation |
+| Woman's age | Affects egg quality, ovarian response and how long simpler options are worth trying |
+| Ovarian reserve (AMH, AFC) | Helps with planning, but doesn't predict success on its own |
+| Fallopian tube health | Checked by HSG; IUI generally needs at least one working tube |
+| Sperm quality | Semen analysis checks count, motility, shape and volume |
+| How long you've been trying | Longer infertility may call for a different approach |
+| Previous treatments | Past ovulation induction, IUI or IVF results, and any miscarriages |
 
 ---
 
-## 4. What the Base IVF Price Covers
+## 7. Tests Before IVF or IUI
 
-- First consultation
-- Baseline blood tests (FSH, LH, AMH, AFC)
-- Ultrasound scans during stimulation
-- Egg retrieval under anaesthesia
-- Fertilisation and embryo culture in the lab
-- Embryo transfer (Day 3 or Day 5)
-- Luteal-phase support
-- Pregnancy blood test (beta-hCG) at 14 days
+- AMH (ovarian reserve)
+- FSH and other hormone tests, when needed
+- Transvaginal ultrasound
+- Antral follicle count (AFC)
+- HSG (checks whether the tubes are open)
+- Semen analysis
+- Thyroid and prolactin tests, when needed
 
----
-
-## 5. What Affects IVF Cost?
-
-- Type of stimulation protocol (long, short, antagonist, minimal)
-- Medicine dose and how your body responds
-- Age and ovarian reserve
-- Add-ons such as ICSI, freezing, PGT or assisted hatching
-- Number of embryos frozen
-- Use of donor eggs or sperm
-- Number of cycles needed
+> 👫 **Both partners should be evaluated.**
 
 ---
 
-## 6. Which Treatment Is Suggested When?
+## 8. Can You Move From IUI to IVF?
 
-| Treatment | Usually suggested for |
-|---|---|
-| **IUI** | First step, often up to ~3 cycles |
-| **IVF** | Blocked tubes, low AMH, older age, endometriosis, failed IUI |
-| **ICSI** | Severe male-factor infertility |
-| **Donor Egg IVF** | Very low egg reserve, repeated poor egg quality, after menopause |
-| **Mini IVF** | Good reserve, poor responders, or a preference for lighter stimulation |
-| **PCOS cases** | Antagonist protocol with close OHSS monitoring; may freeze all embryos |
+Yes. Many couples try a limited number of IUI cycles and move to IVF if pregnancy doesn't happen. Couples with **both tubes blocked** or **severe male-factor infertility** may be advised to go straight to IVF. The switch is based on medical findings, not a fixed sequence.
 
 ---
 
-## 7. The IVF Journey at Ayuh
+## 9. Why Individualised Treatment Matters
 
-1. Consultation and cost estimate
-2. In-house tests
-3. Personalised treatment plan
-4. IVF cycle
-5. Embryo transfer and follow-up
-
-**Timeline:** 4–6 weeks per cycle (start to pregnancy test); 6–8 weeks including initial tests.
+There's no one-size-fits-all answer. The choice depends on each couple's tests, age and history.
 
 ---
 
-## 8. Success Rates (Clinic Claims)
+## 10. FAQs
 
-- Claims a "90%+" IVF success rate and 10,000+ successful pregnancies
-- Says results are above average, especially under age 38
-- Says many patients conceive within 1–2 cycles
+**What's the main difference between IVF and IUI?**
+Where fertilisation happens: inside the body (IUI) or in the lab (IVF).
 
-> ⚠️ The page doesn't explain how the 90% figure is measured (per cycle, per transfer or cumulative), and gives no age-wise data. Ask the clinic for its age-specific live-birth rates.
+**Can IUI work with blocked tubes?**
+It generally needs at least one working tube. If both are blocked, IVF may be advised.
 
----
+**Is IVF recommended for low sperm count?**
+For severe male-factor infertility, IVF with ICSI may be considered.
 
-## 9. Insurance & EMI
+**Can women with PCOS have IUI or IVF?**
+Yes. The choice depends on ovulation, age, ovarian response and other factors.
 
-- Most standard health insurance in India **doesn't cover IVF**. Some corporate plans offer partial cover.
-- Ayuh says it offers **flexible payment and EMI options**. Terms, interest and amounts aren't listed; details are given by phone.
+**How many IUI cycles should I try before IVF?**
+There's no fixed number. It depends on age, diagnosis, egg reserve, sperm quality and response to treatment.
 
----
+**Does IVF guarantee pregnancy?**
+No. Results depend on many factors.
 
-## 10. IVF Cost: Ahmedabad vs Other Cities (as listed on the page)
+**Is IUI suitable for unexplained infertility?**
+It may be, often with ovarian stimulation, once tubes, ovulation and semen have been checked.
 
-| City | Approx. cost per cycle |
-|---|---|
-| Ahmedabad (Ayuh) | ₹1,20,000 – ₹1,40,000 |
-| Delhi | ₹1,20,000 – ₹2,50,000 |
-| Bangalore | ₹1,20,000 – ₹2,00,000 |
-| Mumbai | ₹1,50,000 – ₹3,00,000 |
-
-*Indicative figures from the clinic; no source given.*
-
----
-
-## 11. Standards & Accreditations
-
-- Follows ICMR guidelines and the ART (Regulation) Act, 2021
-- Badges: ICMR compliant, ISO-certified lab, ART Board approved, AOGS member
+**When should I see a fertility specialist?**
+- Under 35: after **12 months** of trying
+- 35 or older: after **6 months** of trying
+- Sooner if you have irregular periods, a known condition or a suspected male-factor issue
 
 ---
 
-## 12. FAQs
+## 11. Not Covered in This Blog
 
-**How much does IVF cost in Ahmedabad in 2026?**
-About ₹1,20,000 – ₹1,40,000 per cycle at Ayuh, depending on the protocol and medicines.
-
-**Is IVF covered by insurance?**
-Usually not. Some corporate plans may cover part of it.
-
-**How many cycles will I need?**
-Many patients conceive in 1–2 cycles, but it varies from person to person.
-
-**Is EMI available?**
-Yes. Call the clinic for details.
-
-**What does Mini IVF cost?**
-₹80,000 – ₹1,10,000 per cycle.
-
-**Does PCOS change the cost?**
-Usually within the standard range, using a protocol designed to lower OHSS risk.
-
-**How long does IVF take?**
-4–6 weeks per cycle; 6–8 weeks including tests.
+- ❌ Success rates for IVF or IUI
+- ❌ Costs (see the clinic's separate IVF cost page)
+- ❌ Pros and cons of each treatment
+- ❌ Risks and side effects
+- ❌ Specific medicines and cycle timelines
 
 ---
 
-## 13. Not Covered or Unclear on the Page
+## 12. Contact
 
-- ❌ Medicine costs (often a large part of the total)
-- ❌ Consultation fee
-- ❌ Refund or cancellation policy
-- ❌ EMI terms
-- ❌ Age-wise success data
-- ⚠️ Price conflicts: the meta description says "from ₹80,000"; ICSI is listed as ₹1,00,000 on one card and ₹1,40,000 in the FAQ
-
----
-
-## 14. Contact
-
+- **Lead doctor:** Dr. Krupa Shah (trained in Munich, Germany)
 - **Address:** SF-201-202, Shivalik Square, New Vadaj, 132 Feet Ring Rd, near Adani CNG Pump, Ranip, Ahmedabad, Gujarat 380013
 - **Phone / WhatsApp:** +91 94260 28483 · +91 75750 28483
 - **Hours:** Monday–Saturday (listed as 24 hours); Sunday by appointment
 - **Website:** [ayuhfertilitycentre.com](https://ayuhfertilitycentre.com)
-
